@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.1](https://github.com/BoomchainLabs/squads-mpl/compare/v1.4.0...v1.4.1) (2025-04-22)
+
+
+### Bug Fixes
+
+* upgrade @octokit/rest from 19.0.3 to 19.0.13 ([e721dbb](https://github.com/BoomchainLabs/squads-mpl/commit/e721dbb4c4f978a39bfd7d263152e8b56da08444))
+* upgrade chalk from 5.0.1 to 5.4.1 ([ef1f235](https://github.com/BoomchainLabs/squads-mpl/commit/ef1f2354780f405bbb3b54483baa32a374daffc3))
+* upgrade figlet from 1.5.2 to 1.8.0 ([e9e2aad](https://github.com/BoomchainLabs/squads-mpl/commit/e9e2aad9f15c6602f540aeb8c407e653c77592e4))
+* upgrade minimist from 1.2.6 to 1.2.8 ([72d81b4](https://github.com/BoomchainLabs/squads-mpl/commit/72d81b4e82fcefe8c62bc1092e43fa4189f34baa))
+* upgrade simple-git from 3.10.0 to 3.27.0 ([2a85f81](https://github.com/BoomchainLabs/squads-mpl/commit/2a85f818cb2c7d479901652b6d7c1d882abf0c96))
+* upgrade touch from 3.1.0 to 3.1.1 ([bfb9ebd](https://github.com/BoomchainLabs/squads-mpl/commit/bfb9ebd03e572bd9d985bcf91861977ed20c7b84))
+
 ## [1.4.0](https://github.com/BoomchainLabs/squads-mpl/compare/v1.3.0...v1.4.0) (2025-03-17)
 
 
