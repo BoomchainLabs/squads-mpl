@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/BoomchainLabs/squads-mpl/compare/v1.4.1...v1.4.2) (2025-04-29)
+
+
+### Bug Fixes
+
+* sdk/package.json to reduce vulnerabilities ([e6a10ea](https://github.com/BoomchainLabs/squads-mpl/commit/e6a10ead44f7b285e7e9da119733b097339bb924))
+
 ## [1.4.1](https://github.com/BoomchainLabs/squads-mpl/compare/v1.4.0...v1.4.1) (2025-04-22)
 
 
